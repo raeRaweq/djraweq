@@ -135,7 +135,10 @@ bot.on('message', msg=>{
             channel.send("Der Song wurde übersprungen!");
 
                 break;
-        }   }
-    });
 
-    bot.login(process.env.token);
+  
+  
+    }
+
+
+    bot.login(process.env.token)}})
